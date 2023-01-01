@@ -1,0 +1,22 @@
+.logo>img {
+    max-height: 150px;
+    max-width: 200px;
+}
+
+.ronnie>img {
+    max-width: 600px;
+    max-height: 200px;
+    background-color: black;
+
+}
+
+
+.index_img>img {
+    height: 450px;
+    width: 600px;
+}
+
+.header {
+    background-color: black;
+}
+
